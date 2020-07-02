@@ -35,17 +35,5 @@
 
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>lenovo-maven</id>
-            <name>lenovo-maven</name>
-            <url>http://maven.xpaas.lenovo.com/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-        </repository>
-    </repositories>
-
-
 
 </project>
